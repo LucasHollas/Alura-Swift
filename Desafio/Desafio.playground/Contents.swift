@@ -1,14 +1,14 @@
-var InicialNome = "L"
-var Nome = "Lucas"
-var Apelido = "Hollas"
-var Idade = 24
-var Altura = "187cm"
-var Swift = true
+var inicialNome = "L"
+var nome = "Lucas"
+var apelido = "Hollas"
+var idade = 24
+var altura = "187cm"
+var swift = true
 
 
-print("Inicial do nome: \(InicialNome)")
-print("Nome: \(Nome)")
-print("Apelido: \(Apelido)")
-print("Idade: \(Idade)")
-print("Altura: \(Altura)")
-print("Gosta de Swift: \(Swift)")
+print("Inicial do nome: \(inicialNome)")
+print("Nome: \(nome)")
+print("Apelido: \(apelido)")
+print("Idade: \(idade)")
+print("Altura: \(altura)")
+print("Gosta de Swift: \(swift)")
